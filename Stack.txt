@@ -1,0 +1,61 @@
+# English   
+
+- Technologies: NodeJS, Express, JWT, MongoDB, JoiSchema, Axios
+    - Back-end: NodeJS
+    - Front-end: ReactJS
+    - Axios [API REST]: HTTP client (GET, POST, PUT or PATCH, DELETE)
+
+- DIO WALLET application requirements:
+    - User registration
+    - User login
+    - Wallet creation
+    - Transaction listing
+        - Transaction creation
+            - Entry
+            - Output
+        - Updating transactions
+        - Deleting transactions
+    - Balance totaling
+
+- Back-end application layers:
+    - Controller
+    - Service
+    - Repository
+    - Model
+
+- MongoDB Collections:
+    - Users
+    - Wallets
+    - Transactions
+
+-------------------------------------------------------------------------------
+
+# Português
+
+- Tecnologias: NodeJS, Express, JWT, MongoDB, JoiSchema
+    - Back-end: NodeJS
+    - Front-end: ReactJS
+    - Axios [API REST]: Protocolo HTTP (GET, POST, PUT ou PATCH, DELETE)
+
+- Requisitos da aplicação DIO WALLET:
+    - Cadastro de usuário
+    - Login de usuário
+    - Criação de carteira
+    - Listagem de transações
+        - Criação de transações
+            - Entrada
+            - Saída
+        - Atualização de transações
+        - Exclusão de transações
+    - Totalização de saldo
+
+- Camadas da aplicação Back-end:
+    - Controller
+    - Service
+    - Repository
+    - Model
+
+- Collections do MongoDB:
+    - Users
+    - Wallets
+    - Transactions
